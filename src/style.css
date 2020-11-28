@@ -1,0 +1,75 @@
+body{
+    font-family: sans-serif;
+    width: 1200px;
+    margin: auto;
+}
+
+.header{
+    background-color: aqua;
+}
+
+.servicios{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.noticias{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.noticia{
+    display: flex;
+}
+
+
+.miembros{
+    background-color: coral;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: darkgray;
+    display: flex;
+}
+
+.barra-superior{
+    display: flex;
+    height: 200px;
+}
+
+.titulo-principal, .contenedor-menu{
+    width: 50%;
+}
+
+.menu-principal{
+    
+    display: flex;
+    list-style: none;
+    justify-content:  space-evenly;
+}
+
+.menu-principal__item > a{
+    text-decoration: none;
+}
+
+.menu-principal__item > a:hover{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner__titulo{
+    position: absolute;
+    color: white;
+}
