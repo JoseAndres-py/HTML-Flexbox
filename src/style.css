@@ -115,6 +115,9 @@ body{
 .section-news > div:first-child{
     margin-bottom: 2px; 
 }
+.section-2{
+    padding-bottom: 40px;
+}
 .news{
     width: 100%;
     background-color: #dbd6d6;
@@ -188,6 +191,14 @@ hr{
     text-align: center;
 }
 
+.titulo-backgroud{
+    background-color: #dbd6d6;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-top: 4pt solid #d5f7e6;
+}
+
 .servicios{
     background-color: #dbd6d6;
     display: flex;
@@ -201,7 +212,6 @@ hr{
 .servicios__contenedor{
     padding: 20px;
 }
-
 
 .servicios__contenedor>img{
     width: 340px;
