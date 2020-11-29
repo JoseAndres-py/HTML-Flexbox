@@ -157,3 +157,7 @@ body{
 .member-list {
     list-style-type: circle;
 }
+
+.member-list{
+    width: 90%;
+}
