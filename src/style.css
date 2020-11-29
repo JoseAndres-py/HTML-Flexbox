@@ -17,9 +17,9 @@ body{
 }
 
 .boxes{
-    width: 19%;
+    width: 19.4%;
     height: 453px;
-    display: inline-block;
+    display: inline-flex;
     margin: 5px 4px 0;
     text-align: center;
     background-color: rgb(207, 255, 246);
