@@ -1,0 +1,18 @@
+.footer{
+    background-color:#d5f7e6;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    text-align: justify;
+}
+
+.footer__item{
+    padding: 10px 30px;
+    width: 49%;
+}
+.member-list{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    list-style-type: circle;
+    width: 90%;
+}
