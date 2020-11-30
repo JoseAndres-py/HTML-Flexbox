@@ -1,0 +1,177 @@
+body{
+    font-family: 'Segoe UI';
+    font-size: medium;
+    width: 1200px;
+    margin: auto;
+}
+
+.header{
+    background-color: #d5f7e6;
+    color: black;
+    font-size: large;
+}
+
+.titulo-seccion{
+    margin-top: 80px;
+    background-color: #d5f7e6;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.servicios{
+    background-color: #dbd6d6;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 15px;
+    padding-bottom: 20px;
+}
+
+
+.servicios__contenedor{
+    padding: 20px;
+}
+
+.servicios__contenedor>img{
+    width: 340px;
+}
+
+.noticias{
+    background-color: #dbd6d6;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 0px 10px;
+}
+
+.noticias:first-child{
+    padding-top: 30px;
+}
+
+.noticias:last-child{
+    padding-bottom: 30px;
+}
+
+
+.noticia{
+    display: flex;
+    width: 50%;
+    padding: 0px 20px;
+}
+
+.noticia__info{
+    margin: 15px;
+    width: 50%;
+}
+
+.noticia__imagen{
+    height: 360px;
+    width: 50%;
+}
+
+
+
+.miembros{
+    background-color: #dbd6d6;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 20px;
+}
+
+.miembros__contenedor{
+    padding: 20px;
+    width: 20%;
+}
+
+.miembros__contenedor>img{
+    width: 190px;
+    height: 280px;
+    border-radius: 100%;
+}
+
+.footer{
+    background-color:#d5f7e6;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px 30px;
+    text-align: justify;
+}
+
+.footer__item{
+    padding: 00px 30px;
+    width: 49%;
+}
+.member-list{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
+.barra-superior{
+    display: flex;
+    height: 120px;
+    align-items: center;
+}
+
+.titulo-principal, .contenedor-menu{
+    width: 50%;
+    text-align: center;
+}
+
+.menu-principal{
+    
+    display: flex;
+    list-style: none;
+    justify-content:  space-evenly;
+}
+
+.menu-principal__item > a{
+    color: black;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+}
+
+.menu-principal__item > a:hover{
+    font-size: 21px;
+    text-decoration: underline;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner__image{
+    width: 100%;
+}
+
+.banner__titulo{
+    position: absolute;
+    color: white;
+    background-color: #1b2e35;
+    transition: all .2s ease-in-out;
+    padding: 6px;
+    border: 4px solid #d5f7e6;
+    margin-right: 18px;
+    border-radius: 12px;
+}
+
+.banner__titulo:hover{
+    font-size: 35px;
+    padding: 12px;
+    border-radius: 14px;
+}
+
+.member-list {
+    list-style-type: circle;
+}
+
+.member-list{
+    width: 90%;
+}
+
+.line-rigth{
+    border-right: 2pt solid #dbd6d6;
+}
