@@ -20,7 +20,7 @@ body{
 }
 
 .servicios{
-    background-color: #dbd6d6;
+    background-color: #e7e7e7;
     display: flex;
     justify-content: space-evenly;
     text-align: center;
@@ -38,7 +38,7 @@ body{
 }
 
 .noticias{
-    background-color: #dbd6d6;
+    background-color: #e7e7e7;
     display: flex;
     justify-content: space-evenly;
     text-align: center;
@@ -73,7 +73,7 @@ body{
 
 
 .miembros{
-    background-color: #dbd6d6;
+    background-color: #e7e7e7;
     display: flex;
     justify-content: space-evenly;
     text-align: center;
@@ -173,5 +173,5 @@ body{
 }
 
 .line-rigth{
-    border-right: 2pt solid #dbd6d6;
+    border-right: 2pt solid #e7e7e7;
 }
