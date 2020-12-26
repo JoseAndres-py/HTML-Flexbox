@@ -17,4 +17,7 @@ Para iniciar con el desarrollo del sitio web, se define previamente aspectos com
 
 - Sección Footer o pie del sitio: el estudiante deberá crear el pie del sitio web en donde se incluye información de contacto, deberá estar dividido en dos partes, en una se tendrá la información del sitio web como el motivante del desarrollo y el enlace al repositorio de github, y en la otra los contacto de los miembros del equipo con sus nombres y roles. La sección debe de estar en un tag <footer></footer>
 
-![stack Overflow](http://lmsotfy.com/so.png)
+
+<p align="center">
+  <img src="https://iili.io/KhMWQ4.png" width="550"/>
+</p>
