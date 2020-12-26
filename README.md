@@ -1,4 +1,4 @@
-# Proyecto final Sprint I
+# Proyecto HTML - Flexbox
 
 Desarrollar un sitio web que conste de 5 secciones usando flexbox. Los diferentes elementos del sitio web contiene con estilos personalizados y  condensados en una sola hoja de estilos.
 
